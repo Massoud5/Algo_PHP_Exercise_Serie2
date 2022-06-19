@@ -1,3 +1,10 @@
-### Elan Formation Exercices ###
+# Elan Formation Exercice
 
-- Algorithmes in php
+### Function and Array
+
+### Class methods
+
+### Class extending
+
+    - <ClassA> extends <ClassB>
+        condition: both must be of the same nature and logically extensible
