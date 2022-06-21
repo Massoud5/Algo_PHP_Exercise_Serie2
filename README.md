@@ -1,4 +1,4 @@
-# Elan Formation Exercice
+# Elan Formation Exercises
 
 ## php Algorithmes and OOP
 
@@ -6,6 +6,9 @@
 ### What I learned:
 
 #### Function and Array
+
+#### Native class
+- IntlDateFormatter : To format a date. It has predefined values.
 
 #### Class methods
 

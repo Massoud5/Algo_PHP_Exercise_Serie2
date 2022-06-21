@@ -20,7 +20,7 @@
 
 class Voiture 
 {
-    protected string $_marque; // if not protected, i should use getter in the child method.
+    protected string $_marque; // free for the child class.
     protected string $_modele;
 
 
